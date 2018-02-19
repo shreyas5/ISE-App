@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "727087273365",
+    "firebase_url": "https://ise-app-5.firebaseio.com",
+    "project_id": "ise-app-5",
+    "storage_bucket": "ise-app-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727087273365:android:d49d99598e075ec2",
+        "android_client_info": {
+          "package_name": "com.pesce.ise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727087273365-pnsq7ln9he49e2odjddeab5s02dcfgdv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pesce.ise",
+            "certificate_hash": "d9de3173d3a1d3439be87983a2eace05be2632d7"
+          }
+        },
+        {
+          "client_id": "727087273365-0tsnh0pvbdcaeqo3lc5apigq63qmj6bm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcsEAyV3gGqS1DJgXWgg4JSYrW_Euz1j0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727087273365-0tsnh0pvbdcaeqo3lc5apigq63qmj6bm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
